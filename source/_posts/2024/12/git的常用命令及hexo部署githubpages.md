@@ -78,6 +78,11 @@ deploy:
 ```
 ## 部署 
 ```bash
+# 安装项目依赖文件
+npm install 
+# 清理生成的缓存和旧文件
+npm run clean
+# 构建并发布静态博客
 npm run deploy
 (hexo deploy)
 ```
