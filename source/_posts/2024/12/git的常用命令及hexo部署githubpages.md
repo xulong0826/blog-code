@@ -1,10 +1,8 @@
 ---
 title: git的常用命令及hexo部署githubpages
-tags: [git, hexo, blog]
+tags: [git, gtihub, hexo, blog]
 date: 2024-12-13 23:01:00
 updated: 2024-12-13 23:01:00
-#index_img: 2024/06/Gaokao-2024/banner.jpg
-#banner_img: 2024/06/Gaokao-2024/banner.jpg
 author: xulong
 ---
 # Git 操作示例  
