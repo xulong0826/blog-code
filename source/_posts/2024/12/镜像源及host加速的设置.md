@@ -1,6 +1,6 @@
 ---
 title: 镜像源及 Host 加速的设置
-tags: [github, conda, pip, host]
+tags: [conda, github, host, pip]
 date: 2024-12-14 20:35:00
 updated: 2024-12-14 23:01:00
 author: xulong
